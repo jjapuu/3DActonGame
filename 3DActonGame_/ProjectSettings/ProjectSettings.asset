@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 83529d7445e0b7b47b459fa9e9726f47
+  productGUID: 7d1b8ef466f96d74aa8252af95e8cc91
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -915,11 +915,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 724d25ca-1b99-4092-85be-408fcb3892a3
+  cloudProjectId: b0312bd9-5e0f-44cc-af8a-cbae794b718c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: 3DActonGame
-  organizationId: muleng141
+  organizationId: ldy061027
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
